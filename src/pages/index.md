@@ -212,7 +212,9 @@ sections:
         image_has_padding: false
       - type: grid_item
         title: 2. WATCH AS WE CUSTOMIZE
-        subtitle: Software Engineer
+        subtitle: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+          ligula, cursus id molestie vel, maximus aliquet risus.
         title_align: center
         image_position: top
       - type: grid_item
