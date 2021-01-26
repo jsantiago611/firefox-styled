@@ -106,7 +106,7 @@ sections:
     background_color: none
     padding_top: none
     padding_bottom: large
-  - title: An assistant in your pocket
+  - title: An assistant in your pocket (??)
     subtitle: ''
     actions:
       - label: CHOOSE YOUR DESIGN
