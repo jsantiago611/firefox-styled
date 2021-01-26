@@ -109,7 +109,7 @@ sections:
   - title: An assistant in your pocket
     subtitle: ''
     actions:
-      - label: Request Free Quote
+      - label: CHOOSE YOUR DESIGN
         url: lorem-ipsum
         style: secondary
         has_icon: true
