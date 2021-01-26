@@ -44,7 +44,7 @@ sections:
         title: ''
         title_align: center
         content: |
-          ##### ✔ STREAMLINED PROCESS
+          ##### ✔ Conversion-Focused
         content_align: center
         actions: []
         actions_align: left
