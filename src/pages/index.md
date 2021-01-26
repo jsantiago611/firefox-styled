@@ -11,6 +11,7 @@ sections:
         url: /pricing
         style: primary
         icon_position: right
+        has_icon: true
     image_alt: Hero section placeholder image
     media_position: left
     media_width: sixty
