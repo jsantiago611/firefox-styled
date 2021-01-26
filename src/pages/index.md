@@ -142,7 +142,7 @@ sections:
         subtitle: ''
         title_align: left
         content: >
-          ### Claims
+          ### Made for you.
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
