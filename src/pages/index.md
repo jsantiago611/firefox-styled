@@ -103,7 +103,6 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
-    background_image: /images/insurance site 1 media (4).png
     padding_top: none
     padding_bottom: large
   - title: Insurance agents you can actually trust
