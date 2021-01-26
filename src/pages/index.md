@@ -86,9 +86,9 @@ sections:
         content: |
           ✘ Is your **outdated site design** scaring away customers?
 
-          ✘ Worried your agent **won't be there** for you when it matters?
+          ✘ Do you spend way **too much time** troubleshooting your agency site?
 
-          ✘ Not confident you'll find **dependable insurance**?
+          ✘ Is your agency site basically **an online brochure**?
         actions:
           - type: action
             label: CHOOSE YOUR DESIGN
