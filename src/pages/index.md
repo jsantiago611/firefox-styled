@@ -6,9 +6,7 @@ sections:
     subtitle: >-
       Use our delightful easy-to-use service to manage a beautiful, modern,
       conversion-focused agency site.
-    content: >
-      Use our delightful **easy-to-use** service to manage a beautiful, modern,
-      conversion-focused agency site.
+    content: ''
     actions:
       - type: action
         label: Choose Your Design
