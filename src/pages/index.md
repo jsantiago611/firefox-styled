@@ -9,7 +9,7 @@ sections:
       ligula, cursus id molestie vel.
     actions:
       - type: action
-        label: Request Free Quote
+        label: Choose Your Design
         url: /pricing
         style: primary
         icon_position: right
