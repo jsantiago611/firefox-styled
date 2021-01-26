@@ -220,6 +220,7 @@ sections:
         subtitle: Developer Advocate
         title_align: center
         image_position: top
+        image: images/clay-banks-POzx_amnWJw-unsplash.jpg
     grid_cols: three
     align: center
     background_color: none
