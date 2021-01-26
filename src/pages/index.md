@@ -83,12 +83,15 @@ sections:
       - type: feature
         title: Why should captive agents have all the toys?
         subtitle: ''
-        content: |
-          ✘ Is your **outdated site design** scaring away customers?
+        content: >
+          ###### ✘ Is your **outdated site design** scaring away customers?
 
-          ✘ Do you spend way **too much time** troubleshooting your agency site?
 
-          ✘ Is your agency site basically **an online brochure**?
+          ###### ✘ Do you spend way **too much time** troubleshooting your
+          agency site?
+
+
+          ###### ✘ Is your agency site basically **an online brochure**?
         actions:
           - type: action
             label: CHOOSE YOUR DESIGN
