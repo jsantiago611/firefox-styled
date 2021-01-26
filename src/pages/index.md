@@ -80,7 +80,7 @@ sections:
     subtitle: ' '
     features:
       - type: feature
-        title: You can't afford to have an ineffective agency site
+        title: You cannot afford to have an ineffective agency site
         subtitle: ''
         content: |
           ✘ Afraid you're getting **ripped off**?
