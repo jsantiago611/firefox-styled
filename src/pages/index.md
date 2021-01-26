@@ -220,7 +220,7 @@ sections:
         image_position: top
     grid_cols: three
     align: center
-    background_color: secondary
+    background_color: none
     enable_cards: false
   - type: cta_section
     title: >-
