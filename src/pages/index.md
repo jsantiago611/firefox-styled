@@ -123,7 +123,7 @@ sections:
         subtitle: ''
         title_align: left
         content: >
-          ### Choice
+          ### Works while you sleep
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
