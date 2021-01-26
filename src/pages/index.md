@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Agent-friendly Agency Websites
+    title: Insurance Websites that attract leads and Work for you
     subtitle: ''
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
