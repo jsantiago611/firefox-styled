@@ -123,7 +123,7 @@ sections:
         subtitle: ''
         title_align: left
         content: >
-          ### Works while you sleep
+          ### Works for your clients while you sleep
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
