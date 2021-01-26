@@ -57,7 +57,7 @@ sections:
         title: ''
         title_align: center
         content: |
-          ##### ✔ SAVVY ADVICE
+          ##### ✔ Google-Friendly
         content_align: center
         actions: []
         actions_align: left
