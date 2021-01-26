@@ -19,7 +19,7 @@ sections:
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: primary
+    background_color: none
     background_image_opacity: 0
     image: images/Elements for Personal Insurance Web Co.png
   - type: grid_section
