@@ -84,7 +84,7 @@ sections:
         title: Why should captive agents have all the toys?
         subtitle: ''
         content: |
-          ✘ Is your outdated site design scaring away customers?
+          ✘ Is your **outdated site design** scaring away customers?
 
           ✘ Worried your agent **won't be there** for you when it matters?
 
