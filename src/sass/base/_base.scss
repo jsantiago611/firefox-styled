@@ -26,7 +26,6 @@ body {
 	line-height: 1.66667;
 	text-rendering: optimizeLegibility;
 	@include font-smooth();
-	font-family: 'Cardo';
 }
 
 @each $style in map-keys($theme-styles) {
@@ -149,6 +148,8 @@ p,
 ul,
 ol {
 	margin: 0 0 1em;
+		font-family: 'Cardo';
+
 }
 
 ul,
