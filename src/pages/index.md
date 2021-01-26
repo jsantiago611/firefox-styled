@@ -80,7 +80,7 @@ sections:
     subtitle: ' '
     features:
       - type: feature
-        title: Do you struggle with finding the right insurance agent?
+        title: You can't afford to have an in?
         subtitle: ''
         content: |
           ✘ Afraid you're getting **ripped off**?
