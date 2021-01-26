@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: AGENT-FRIENDLY INSURANCE SITES
+    title: Agent-friendly Insurance Sites.
     subtitle: "Use our delightfully\_easy-to-use service to manage a beautiful, modern agency site."
     content: ''
     actions:
