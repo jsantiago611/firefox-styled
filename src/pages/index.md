@@ -106,7 +106,7 @@ sections:
     background_color: none
     padding_top: none
     padding_bottom: large
-  - title: Insurance agents you can actually trust
+  - title: An assistant in your pocket
     subtitle: ''
     actions:
       - label: Request Free Quote
