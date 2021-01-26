@@ -52,6 +52,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
+        subtitle: '  '
       - type: grid_item
         title: ''
         title_align: center
