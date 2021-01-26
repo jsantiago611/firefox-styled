@@ -90,7 +90,7 @@ sections:
           ✘ Not confident you'll find **dependable insurance**?
         actions:
           - type: action
-            label: Request Free Quote
+            label: Choose Your Design
             url: /style-guide
             style: primary
             has_icon: true
