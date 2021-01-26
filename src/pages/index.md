@@ -225,7 +225,7 @@ sections:
     grid_cols: three
     align: center
     background_color: none
-    enable_cards: false
+    enable_cards: true
   - type: cta_section
     title: >-
       We believe you shouldn't have to be a web designer to have an amazing
