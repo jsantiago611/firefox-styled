@@ -194,8 +194,8 @@ sections:
     type: grid_section
   - type: grid_section
     title: >-
-      Finding the right insurance agent can be tough. That's why we're providing
-      dependable insurance that protects 100 families each year.
+      Finding the right insurance agent can be tough. That's why we are
+      providing dependable insurance that protects 100 families each year.
     subtitle: ''
     grid_items:
       - type: grid_item
