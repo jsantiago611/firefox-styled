@@ -217,7 +217,9 @@ sections:
         image_position: top
       - type: grid_item
         title: 3. DO YOUR HAPPY DANCE
-        subtitle: Developer Advocate
+        subtitle: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+          ligula, cursus id molestie vel, maximus aliquet risus.
         title_align: center
         image_position: top
         image: images/clay-banks-POzx_amnWJw-unsplash.jpg
