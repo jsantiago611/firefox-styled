@@ -30,7 +30,7 @@ sections:
         title: ''
         title_align: center
         content: |
-          ##### ✔ COMPREHENSIVE SEARCH
+          ##### ✔ Blazing-Fast
         content_align: center
         actions: []
         actions_align: left
