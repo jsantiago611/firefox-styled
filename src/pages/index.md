@@ -21,7 +21,7 @@ sections:
     padding_bottom: large
     background_color: primary
     background_image_opacity: 0
-    image: /images/edward-cisneros-3SSM6pdTi3k-unsplash.jpg
+    image: images/insurance site 1 media (9).png
     background_image: /images/insurance site 1 media (2).png
   - type: grid_section
     title: ''
