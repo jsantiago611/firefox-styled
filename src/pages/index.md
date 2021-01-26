@@ -190,6 +190,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
+    background_image: images/Elements for Personal Insurance Web Co (5).png
   - type: grid_section
     title: Get your site
     subtitle: OUR THREE STEP PROCESS
