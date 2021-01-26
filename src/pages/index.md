@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: INSURANCE WEBSITES THAT ATTRACT LEADS AND WORK FOR YOU
+    title: Insurance Websites that attract leads and work for you
     subtitle: >-
       Use our delightful easy-to-use service to manage a beautiful, modern,
       conversion-focused agency site.
