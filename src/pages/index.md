@@ -4,8 +4,9 @@ sections:
   - type: hero_section
     title: Insurance Websites that attract leads and Work for you
     subtitle: ''
-    content: |
-      Use our delightful done-for-you **easy-to-use** service to go from 
+    content: >
+      Use our delightful **easy-to-use** service to manage a beautiful, modern,
+      conversion-focused agency site.
     actions:
       - type: action
         label: Choose Your Design
