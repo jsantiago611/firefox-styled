@@ -161,7 +161,7 @@ sections:
         subtitle: ''
         title_align: left
         content: >
-          ### Service
+          ### No tech skills? No problem.
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
