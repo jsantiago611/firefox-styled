@@ -211,7 +211,7 @@ sections:
         image: /images/unique-daffodil.jpg
         image_has_padding: false
       - type: grid_item
-        title: '2.'
+        title: 2. WATCH AS WE CUSTOMIZE
         subtitle: Software Engineer
         title_align: center
         image_position: top
