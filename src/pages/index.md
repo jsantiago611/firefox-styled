@@ -91,7 +91,7 @@ sections:
           ✘ Not confident you'll find **dependable insurance**?
         actions:
           - type: action
-            label: Choose Your Design
+            label: CHOOSE YOUR DESIGN
             url: /style-guide
             style: primary
             has_icon: true
