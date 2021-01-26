@@ -7,7 +7,7 @@ sections:
     content: ''
     actions:
       - type: action
-        label: Choose Your Design
+        label: CHOOSE YOUR DESIGN
         url: /pricing
         style: primary
         icon_position: right
