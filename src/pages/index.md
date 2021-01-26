@@ -196,7 +196,7 @@ sections:
     subtitle: OUR THREE STEP PROCESS
     actions:
       - type: action
-        label: Request Free Quote
+        label: CHOOSE YOUR PLAN
         url: /style-guide
         style: primary
     grid_items:
