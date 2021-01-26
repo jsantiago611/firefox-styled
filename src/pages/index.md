@@ -231,7 +231,7 @@ sections:
       Don't let tech hold you back anymore.
     actions:
       - type: action
-        label: Request Free Quote
+        label: CHOOSE YOUR PLAN
         url: /features
         style: secondary
     actions_position: right
