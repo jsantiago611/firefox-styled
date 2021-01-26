@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Insurance Websites that attract leads and work for you
+    title: AGENT-FRIENDLY INSURANCE SITES
     subtitle: "Use our delightfully\_easy-to-use service to manage a beautiful, modern, conversion-focused agency site."
     content: ''
     actions:
