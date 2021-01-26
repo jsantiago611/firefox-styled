@@ -226,10 +226,8 @@ sections:
     title: >-
       We believe you shouldn't have to be a web designer to have an amazing
       agency site.
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: |
+      Don't let tech hold you back anymore.
     actions:
       - type: action
         label: Request Free Quote
