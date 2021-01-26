@@ -16,7 +16,7 @@
         "secondary_nav_links": [
             {
                 "type": "action",
-                "label": "Request Free Quote",
+                "label": "Choose Your Design",
                 "url": "/pricing",
                 "style": "primary"
             }
