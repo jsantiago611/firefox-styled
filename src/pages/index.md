@@ -81,7 +81,7 @@ sections:
     subtitle: ' '
     features:
       - type: feature
-        title: You cannot afford to have an ineffective agency site
+        title: Why should captive agents have all the toys?
         subtitle: ''
         content: |
           ✘ Afraid you're getting **ripped off**?
