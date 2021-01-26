@@ -191,7 +191,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - type: grid_section
-    title: How it works
+    title: Get your site
     subtitle: OUR THREE STEP PROCESS
     actions:
       - type: action
