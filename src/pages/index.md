@@ -57,7 +57,7 @@ sections:
         title: ''
         title_align: center
         content: |
-          #### ✔ Frustration-Free
+          ### ✔ Frustration-Free
         content_align: center
         actions: []
         actions_align: left
