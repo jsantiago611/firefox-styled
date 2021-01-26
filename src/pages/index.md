@@ -38,7 +38,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: false
-        subtitle: ''
+        subtitle: .
         image_width: thirty-three
       - type: grid_item
         title: ''
