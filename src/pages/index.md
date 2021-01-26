@@ -138,7 +138,6 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: /images/icons8-handshake-100.png
       - title: ''
         subtitle: ''
         title_align: left
