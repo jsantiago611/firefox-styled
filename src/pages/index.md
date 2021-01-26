@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Expert Insurance Services you can rely on
+    title: Agent-friendly Agency Websites
     subtitle: ''
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
