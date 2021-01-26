@@ -216,7 +216,7 @@ sections:
         title_align: center
         image_position: top
       - type: grid_item
-        title: '3.'
+        title: 3. DO YOUR HAPPY DANCE
         subtitle: Developer Advocate
         title_align: center
         image_position: top
