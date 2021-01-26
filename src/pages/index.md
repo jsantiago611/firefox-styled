@@ -12,6 +12,7 @@ sections:
         style: primary
         icon_position: right
         has_icon: true
+        icon: arrow-right
     image_alt: Hero section placeholder image
     media_position: left
     media_width: sixty
