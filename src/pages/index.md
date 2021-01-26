@@ -4,9 +4,8 @@ sections:
   - type: hero_section
     title: Insurance Websites that attract leads and Work for you
     subtitle: ''
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: |
+      Use our delightful done-for-you **easy-to-use** service to go from 
     actions:
       - type: action
         label: Choose Your Design
