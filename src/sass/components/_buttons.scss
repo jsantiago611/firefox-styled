@@ -2,8 +2,7 @@
  * Button Styles
  */
 .btn {
-		font-family: 'Calibre', 'Montserrat', Roboto, Helvetica, Arial, sans-serif;
-
+	font-family: 'Calibre', 'Montserrat', Roboto, Helvetica, Arial, sans-serif;
 	align-items: center;
 	background-color: $color-btn-bg;
 	border: 0;
@@ -12,7 +11,7 @@
 	color: $color-btn-text;
 	cursor: pointer;
 	display: inline-flex;
-	font-size: 0.88889em;
+	font-size: 1em;
 	font-weight: 700;
 	justify-content: center;
 	line-height: 1.25;
