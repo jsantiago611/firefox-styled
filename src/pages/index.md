@@ -157,7 +157,6 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: /images/icons8-car-crash-100.png
       - title: ''
         subtitle: ''
         title_align: left
@@ -177,7 +176,6 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: /images/icons8-guarantee-100 (1).png
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
