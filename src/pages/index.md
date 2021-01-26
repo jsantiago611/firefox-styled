@@ -340,7 +340,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-    background_image: /images/insurance site 1 media (5).png
   - title: Get the professional website you deserve.
     content: ''
     actions:
