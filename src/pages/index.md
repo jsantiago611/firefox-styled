@@ -54,7 +54,7 @@ sections:
         image_has_padding: true
         subtitle: '  '
       - type: grid_item
-        title: '  '
+        title: ''
         title_align: center
         content: |
           ##### ✔ Google-Friendly
