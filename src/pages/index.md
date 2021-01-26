@@ -280,7 +280,7 @@ sections:
   - title: Get the professional website you deserve.
     content: ''
     actions:
-      - label: Request free quote
+      - label: CHOOSE YOUR PLAN
         url: lorem-ipsum
         style: primary
         has_icon: true
