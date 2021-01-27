@@ -81,7 +81,7 @@ sections:
     subtitle: ' '
     features:
       - type: feature
-        title: 'Do you struggle with '
+        title: 'Do you struggle with keeping '
         subtitle: ''
         content: |
           ✘ Is your **outdated site design** scaring away customers?
