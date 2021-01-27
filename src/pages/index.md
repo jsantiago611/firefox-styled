@@ -81,7 +81,7 @@ sections:
     subtitle: ' '
     features:
       - type: feature
-        title: Why should captive agents have all the toys?
+        title: 'Do you stuggle with '
         subtitle: ''
         content: |
           ✘ Is your **outdated site design** scaring away customers?
