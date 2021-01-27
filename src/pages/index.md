@@ -142,12 +142,13 @@ sections:
       - title: ''
         subtitle: ''
         title_align: left
-        content: >
+        content: >+
           ### Made for you.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Why should captive agents have all the toys? Enjoy a modern, slick
+          site for your independent insurance agency.
+
         content_align: left
         actions: []
         actions_align: left
