@@ -248,7 +248,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
-  - title: Top 5 Things to Ask When Hiring an Insurance Agent
+  - title: Top 5 Things all Insurance Agents MUST include on their agency website
     subtitle: Enter your email address to download our free guide.
     title_align: left
     content: ''
