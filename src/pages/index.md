@@ -81,7 +81,7 @@ sections:
     subtitle: ' '
     features:
       - type: feature
-        title: 'Do you struggle with keeping '
+        title: Do you struggle with maintaining an outdated agency site?
         subtitle: ''
         content: |
           ✘ Is your **outdated site design** scaring away customers?
