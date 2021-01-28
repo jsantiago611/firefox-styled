@@ -70,7 +70,7 @@ sections:
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
-    enable_cards: false
+    enable_cards: true
     align: center
     background_color: secondary
     padding_top: small
