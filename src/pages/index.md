@@ -219,7 +219,7 @@ sections:
         title_align: center
         image_position: top
       - type: grid_item
-        title: 3. DO YOUR HAPPY DANCE
+        title: 3. Do your Happy Dance
         subtitle: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus.
