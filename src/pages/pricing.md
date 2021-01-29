@@ -3,7 +3,7 @@ title: Pricing
 sections:
   - type: hero_section
     title: The ___ Package
-    subtitle: Optional hero section subtitle
+    subtitle: Everything you need for a killer Insurance Agency online presence.
     align: center
     padding_top: large
     padding_bottom: small
