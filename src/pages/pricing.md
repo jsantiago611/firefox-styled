@@ -33,7 +33,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - type: grid_item
-        title: '[my company]'
+        title: "The New Way \U0001F929"
         subtitle: Optional subtitle
         title_align: left
         content: |
