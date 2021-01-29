@@ -212,7 +212,7 @@ sections:
         image: /images/unique-daffodil.jpg
         image_has_padding: false
       - type: grid_item
-        title: 2. WATCH AS WE CUSTOMIZE
+        title: 2. Watch as we customize
         subtitle: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus.
