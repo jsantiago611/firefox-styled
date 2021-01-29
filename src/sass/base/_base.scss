@@ -30,6 +30,21 @@
    font-style: italic;
 }
 
+@font-face {
+   font-family: 'Circular';
+   src: url('../fonts/CircularXXWebTrial-BoldTrial.woff') format('woff');
+   font-weight: 700;
+   font-style: italic;
+}
+
+@font-face {
+   font-family: 'Circular';
+   src: url('../fonts/CircularXXWebTrial-BoldItalicTrial.woff') format('woff');
+   font-weight: 700;
+   font-style: italic;
+}
+
+
 html {
 	font-size: 112.5%;
 }
@@ -74,7 +89,7 @@ h6 {
 	line-height: 1.1;
 	margin: 1.25em 0 0.5em;
 	letter-spacing: -0.06rem;
-	font-family: 'Calibre', 'Montserrat', Roboto, Helvetica, Arial, sans-serif;
+	font-family: 'Circular', 'Montserrat', Roboto, Helvetica, Arial, sans-serif;
 
 	&:first-child {
 		margin-top: 0;
