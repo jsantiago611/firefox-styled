@@ -36,35 +36,34 @@ sections:
         title: Premium
         subtitle: Optional subtitle
         title_align: left
-        content: |+
+        content: |
           ***
 
           # $19
 
-          *per month, billed monthly*
+          ### *per month, billed monthly*
 
-          ###### ✔ Blazing-fast website hosting
+          ### ✔ Blazing-fast website hosting
 
-          ###### ✔ Powerful Insurance Site Builder (No tech skills required. )
+          ### ✔ Powerful Insurance Site Builder (No tech skills required. )
 
-          ###### ✔ We register your domain
+          ### ✔ We register your domain
 
-          ###### ✔ High web security
+          ### ✔ High web security
 
-          ###### ✔ NO contracts
+          ### ✔ NO contracts
 
-          ###### ✔ NO Hidden frees
+          ### ✔ NO Hidden frees
 
-          ###### ✔ NO setup fees
+          ### ✔ NO setup fees
 
-          ###### ✔ NO pay-as-you-grow fees
+          ### ✔ NO pay-as-you-grow fees
 
-          ###### ✔ Attract new customers and service existing ones
+          ### ✔ Attract new customers and service existing ones
 
-          ###### ✔ Quote forms included
+          ### ✔ Quote forms included
 
-          ###### ✔ Makes life easier for staff maintaining it&#xA;&#xA;
-
+          ### ✔ Makes life easier for staff to maintain it&#xA;&#xA;
         content_align: left
         actions:
           - type: action
