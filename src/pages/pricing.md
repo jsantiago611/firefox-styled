@@ -11,7 +11,7 @@ sections:
     grid_items:
       - type: grid_item
         title: "The old way \U0001F614"
-        subtitle: Optional subtitle
+        subtitle: ''
         title_align: left
         content: |-
           ---
