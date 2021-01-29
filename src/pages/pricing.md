@@ -39,9 +39,9 @@ sections:
         content: |
           ***
 
-          # $19
+          # $39
 
-          #### *per month, billed monthly*
+          ##### *per month, billed monthly*
 
           ### ✔ Blazing-fast website hosting
 
