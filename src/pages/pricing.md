@@ -67,7 +67,7 @@ sections:
         content_align: left
         actions:
           - type: action
-            label: Start with Premium
+            label: GET STARTED
             url: /features
             style: primary
         actions_align: left
