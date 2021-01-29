@@ -10,7 +10,7 @@ sections:
   - type: grid_section
     grid_items:
       - type: grid_item
-        title: Personal
+        title: "The old way \U0001F614"
         subtitle: Optional subtitle
         title_align: left
         content: |-
