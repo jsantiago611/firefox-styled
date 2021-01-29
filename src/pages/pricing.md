@@ -34,7 +34,7 @@ sections:
         actions_width: full-width
       - type: grid_item
         title: "The New Way \U0001F929"
-        subtitle: Optional subtitle
+        subtitle: ''
         title_align: left
         content: |
           ***
