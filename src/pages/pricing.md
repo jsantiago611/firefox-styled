@@ -36,18 +36,35 @@ sections:
         title: Premium
         subtitle: Optional subtitle
         title_align: left
-        content: |-
-          ---
+        content: |+
+          ***
 
-          ### $19
+          # $19
 
-          per month, billed yearly
+          *per month, billed monthly*
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Fringilla diam magnis libero lacinia
-          * Litora primis facilisis ullamcorper per
+          ###### ✔ Blazing-fast website hosting
+
+          ###### ✔ Powerful Insurance Site Builder (No tech skills required. )
+
+          ###### ✔ We register your domain
+
+          ###### ✔ High web security
+
+          ###### ✔ NO contracts
+
+          ###### ✔ NO Hidden frees
+
+          ###### ✔ NO setup fees
+
+          ###### ✔ NO pay-as-you-grow fees
+
+          ###### ✔ Attract new customers and service existing ones
+
+          ###### ✔ Quote forms included
+
+          ###### ✔ Makes life easier for staff maintaining it&#xA;&#xA;
+
         content_align: left
         actions:
           - type: action
