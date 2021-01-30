@@ -44,6 +44,20 @@
    font-style: italic;
 }
 
+@font-face {
+   font-family: 'S';
+   src: url('../fonts/soehne-test-dreiviertelfett.woff') format('woff');
+   font-weight: 700;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'S';
+   src: url('../fonts/soehne-test-dreiviertelfett-kursiv.woff') format('woff');
+   font-weight: 400;
+   font-style: italic;
+}
+
 
 
 html {
