@@ -58,6 +58,20 @@
    font-style: italic;
 }
 
+@font-face {
+   font-family: 'S';
+   src: url('../fonts/soehne-test-buch.woff') format('woff');
+   font-weight: 400;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'S';
+   src: url('../fonts/soehne-test-buch-kursiv.woff') format('woff');
+   font-weight: 400;
+   font-style: italic;
+}
+
 
 
 html {
@@ -127,18 +141,26 @@ h2 {
 
 h3 {
 	font-size: 1.66667em;
+	font-weight: 400;
+
 }
 
 h4 {
 	font-size: 1.33333em;
+		font-weight: 400;
+
 }
 
 h5 {
 	font-size: 1.11111em;
+		font-weight: 400;
+
 }
 
 h6 {
 	font-size: 1em;
+		font-weight: 400;
+
 }
 
 mark,
