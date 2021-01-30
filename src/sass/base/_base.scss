@@ -30,6 +30,19 @@
    font-style: italic;
 }
 
+@font-face {
+   font-family: 'Sig';
+   src: url('../fonts/signifier-test-regular.woff') format('woff');
+   font-weight: 400;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'Sig';
+   src: url('../fonts/signifier-test-regular-italics.woff') format('woff');
+   font-weight: 400;
+   font-style: italic;
+}
 
 
 html {
@@ -165,7 +178,7 @@ p,
 ul,
 ol {
 	margin: 0 0 1em;
-		font-family: 'Cardo';
+		font-family: 'Sig';
 
 }
 
