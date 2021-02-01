@@ -140,7 +140,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/friendly-chili.png
+        image: images/incredible-europa.png
       - title: ''
         subtitle: ''
         title_align: left
