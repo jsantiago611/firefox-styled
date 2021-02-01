@@ -73,7 +73,7 @@ sections:
     enable_cards: true
     align: center
     background_color: none
-    padding_top: small
+    padding_top: none
     has_border: true
     padding_bottom: small
   - type: features_section
