@@ -241,7 +241,7 @@ sections:
 
         content_align: center
       - type: grid_item
-        title: 3. Do your Happy Dance
+        title: ''
         subtitle: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus.
