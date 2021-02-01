@@ -54,6 +54,7 @@ sections:
         image_align: left
         image_has_padding: true
         subtitle: '  '
+        image: images/Untitled story (12).png
       - type: grid_item
         title: ''
         title_align: center
