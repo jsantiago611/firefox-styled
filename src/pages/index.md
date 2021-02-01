@@ -221,6 +221,7 @@ sections:
 
 
 
+        content_align: center
       - type: grid_item
         title: 2. Watch as we customize
         subtitle: >-
