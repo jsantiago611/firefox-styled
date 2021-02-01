@@ -212,7 +212,9 @@ sections:
         image_position: top
         image_has_padding: false
         content: |
-          # 1
+          # 1.
+
+          ### Choose your design&#xA;&#xA;
       - type: grid_item
         title: 2. Watch as we customize
         subtitle: >-
