@@ -39,7 +39,7 @@ sections:
         image_align: left
         image_has_padding: true
         subtitle: ' '
-        image_width: twenty-five
+        image_width: thirty-three
         image: images/Untitled story (10).png
       - type: grid_item
         title: ''
