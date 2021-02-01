@@ -239,6 +239,7 @@ sections:
 
 
 
+        content_align: center
       - type: grid_item
         title: 3. Do your Happy Dance
         subtitle: >-
