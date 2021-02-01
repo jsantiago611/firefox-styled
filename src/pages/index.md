@@ -253,6 +253,7 @@ sections:
     background_color: none
     enable_cards: false
     padding_top: large
+    padding_bottom: large
   - type: cta_section
     title: >-
       We believe you shouldn't have to be a web designer to have an amazing
