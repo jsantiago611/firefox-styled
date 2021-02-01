@@ -223,7 +223,7 @@ sections:
 
         content_align: center
       - type: grid_item
-        title: 2. Watch as we customize
+        title: ''
         subtitle: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus.
