@@ -107,6 +107,7 @@ sections:
     padding_bottom: large
     background_image_size: cover
     background_image_position: center center
+    background_image: images/robust-mustard.png
   - title: Focus on serving your customers.
     subtitle: ''
     actions:
