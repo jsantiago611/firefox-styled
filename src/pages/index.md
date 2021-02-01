@@ -111,7 +111,7 @@ sections:
   - title: Focus on serving your customers.
     subtitle: ''
     actions:
-      - label: CHOOSE YOUR DESIGN
+      - label: Choose your design
         url: lorem-ipsum
         style: secondary
         has_icon: true
