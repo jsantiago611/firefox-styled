@@ -107,6 +107,7 @@ sections:
     padding_bottom: large
     background_image: images/Elements for Personal Insurance Web Co (8).png
     background_image_size: cover
+    background_image_position: center center
   - title: Focus on serving your customers.
     subtitle: ''
     actions:
