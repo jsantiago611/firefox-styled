@@ -103,7 +103,7 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: none
-    padding_top: none
+    padding_top: large
     padding_bottom: large
     background_image: images/Elements for Personal Insurance Web Co (8).png
     background_image_size: contain
