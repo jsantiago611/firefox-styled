@@ -204,7 +204,7 @@ sections:
         style: primary
     grid_items:
       - type: grid_item
-        title: 1. Choose your design
+        title: Choose your design
         subtitle: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus.
