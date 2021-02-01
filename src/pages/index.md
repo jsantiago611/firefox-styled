@@ -227,10 +227,18 @@ sections:
         subtitle: ''
         title_align: center
         image_position: top
-        content: |
+        content: >+
           # 2.
 
-          ### Watch as we customize&#xA;&#xA;
+
+          ### Watch as we customize
+
+
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+          ligula, cursus id molestie vel, maximus aliquet risus.
+
+
+
       - type: grid_item
         title: 3. Do your Happy Dance
         subtitle: >-
