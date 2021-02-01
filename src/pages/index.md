@@ -31,7 +31,7 @@ sections:
         title: ''
         title_align: center
         content: |
-          ### Blazing-Fast
+          ### →Blazing-Fast
         content_align: center
         actions: []
         actions_align: left
