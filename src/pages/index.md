@@ -40,7 +40,7 @@ sections:
         image_has_padding: false
         subtitle: ' '
         image_width: thirty-three
-        image: images/Untitled story (8).png
+        image: images/Untitled story (9).png
       - type: grid_item
         title: ''
         title_align: center
