@@ -226,7 +226,6 @@ sections:
           ligula, cursus id molestie vel, maximus aliquet risus.
         title_align: center
         image_position: top
-        image: images/clay-banks-POzx_amnWJw-unsplash.jpg
         image_has_padding: true
     grid_cols: three
     align: center
