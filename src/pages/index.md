@@ -162,7 +162,7 @@ sections:
         subtitle: ''
         title_align: left
         content: >
-          ### No tech skills? No problem.
+          ### *No tech skills? No problem.*
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
