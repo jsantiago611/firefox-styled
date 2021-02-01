@@ -321,7 +321,7 @@ sections:
   - title: Get the professional website you deserve.
     content: ''
     actions:
-      - label: CHOOSE YOUR PLAN
+      - label: Choose your design
         url: lorem-ipsum
         style: primary
         has_icon: true
