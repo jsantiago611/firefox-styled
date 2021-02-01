@@ -255,6 +255,7 @@ sections:
 
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus.
+        content_align: center
     grid_cols: three
     align: center
     background_color: none
