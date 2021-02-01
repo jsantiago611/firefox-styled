@@ -211,6 +211,8 @@ sections:
         title_align: center
         image_position: top
         image_has_padding: false
+        content: |
+          # 1
       - type: grid_item
         title: 2. Watch as we customize
         subtitle: >-
