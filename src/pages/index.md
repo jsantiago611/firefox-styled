@@ -270,7 +270,7 @@ sections:
       Don't let tech hold you back anymore.
     actions:
       - type: action
-        label: CHOOSE YOUR PLAN
+        label: Choose your design
         url: /features
         style: secondary
     actions_position: right
