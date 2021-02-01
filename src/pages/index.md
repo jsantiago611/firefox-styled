@@ -91,7 +91,7 @@ sections:
           ✘ Is your agency site basically **an online brochure**?
         actions:
           - type: action
-            label: CHOOSE YOUR DESIGN
+            label: Choose your design
             url: /style-guide
             style: primary
             has_icon: true
