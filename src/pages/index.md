@@ -143,7 +143,7 @@ sections:
         subtitle: ''
         title_align: left
         content: >
-          ### Made for *you*.
+          ### *Made for you.*
 
 
           Why should captive agents have all the toys? Enjoy a modern, slick
