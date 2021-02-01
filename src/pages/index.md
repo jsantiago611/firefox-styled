@@ -142,13 +142,12 @@ sections:
       - title: ''
         subtitle: ''
         title_align: left
-        content: >+
-          ### Made for you.
+        content: >
+          ### Made for *you*.
 
 
           Why should captive agents have all the toys? Enjoy a modern, slick
           site for your independent insurance agency.
-
         content_align: left
         actions: []
         actions_align: left
