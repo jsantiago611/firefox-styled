@@ -248,6 +248,10 @@ sections:
         title_align: center
         image_position: top
         image_has_padding: true
+        content: |
+          # 3. 
+
+          ### Do your Happy Dance&#xA;&#xA;
     grid_cols: three
     align: center
     background_color: none
