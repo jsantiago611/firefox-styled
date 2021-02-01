@@ -37,7 +37,7 @@ sections:
         image_alt: Section item 1 icon
         image_position: top
         image_align: left
-        image_has_padding: false
+        image_has_padding: true
         subtitle: ' '
         image_width: thirty-three
         image: images/Untitled story (10).png
