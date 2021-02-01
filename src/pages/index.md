@@ -157,7 +157,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/parallel-pineapple.png
+        image: images/fabulous-sage.png
       - title: ''
         subtitle: ''
         title_align: left
