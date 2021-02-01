@@ -229,6 +229,10 @@ sections:
           ligula, cursus id molestie vel, maximus aliquet risus.
         title_align: center
         image_position: top
+        content: |
+          # 2.
+
+          ### Watch as we customize&#xA;&#xA;
       - type: grid_item
         title: 3. Do your Happy Dance
         subtitle: >-
