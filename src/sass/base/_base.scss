@@ -30,19 +30,97 @@
    font-style: italic;
 }
 
+/**
+ * Signifier
+ */
+
 @font-face {
    font-family: 'Sig';
-   src: url('../fonts/signifier-test-regular.woff') format('woff');
+   src: url('../fonts/signifier-test-thin.woff') format('woff');
+   font-weight: 100;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'Sig';
+   src: url('../fonts/signifier-test-thin-italic.woff') format('woff');
+   font-weight: 100;
+   font-style: italic;
+}
+
+@font-face {
+   font-family: 'Sig';
+   src: url('../fonts/signifier-test-extralight.woff') format('woff');
+   font-weight: 200;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'Sig';
+   src: url('../fonts/signifier-test-extralight-italic.woff') format('woff');
+   font-weight: 200;
+   font-style: italic;
+}
+
+@font-face {
+   font-family: 'Sig';
+   src: url('../fonts/signifier-test-light.woff') format('woff');
+   font-weight: 300;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'Sig';
+   src: url('../fonts/signifier-test-light-italic.woff') format('woff');
+   font-weight: 300;
+   font-style: italic;
+}
+
+@font-face {
+   font-family: 'Sig';
+   src: url('../fonts/signifier-test-light.woff') format('woff');
    font-weight: 400;
    font-style: normal;
 }
 
 @font-face {
    font-family: 'Sig';
-   src: url('../fonts/signifier-test-regular-italic.woff') format('woff');
+   src: url('../fonts/signifier-test-light-italic.woff') format('woff');
    font-weight: 400;
    font-style: italic;
 }
+
+@font-face {
+   font-family: 'Sig';
+   src: url('../fonts/signifier-test-medium.woff') format('woff');
+   font-weight: 500;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'Sig';
+   src: url('../fonts/signifier-test-medium-italic.woff') format('woff');
+   font-weight: 500;
+   font-style: italic;
+}
+
+@font-face {
+   font-family: 'Sig';
+   src: url('../fonts/signifier-test-bold.woff') format('woff');
+   font-weight: 700;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'Sig';
+   src: url('../fonts/signifier-test-bold-italic.woff') format('woff');
+   font-weight: 700;
+   font-style: italic;
+}
+
+/**
+ * Soehn
+ */
 
 @font-face {
    font-family: 'S';
@@ -214,7 +292,7 @@ p,
 ul,
 ol {
 	margin: 0 0 1em;
-		font-family: 'Sig';
+	font-family: 'Sig';
 
 }
 
