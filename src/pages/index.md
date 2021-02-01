@@ -246,10 +246,15 @@ sections:
         title_align: center
         image_position: top
         image_has_padding: true
-        content: |
-          # 3. 
+        content: >
+          # 3.
 
-          ### Do your Happy Dance&#xA;&#xA;
+
+          ### Do your Happy Dance
+
+
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+          ligula, cursus id molestie vel, maximus aliquet risus.
     grid_cols: three
     align: center
     background_color: none
