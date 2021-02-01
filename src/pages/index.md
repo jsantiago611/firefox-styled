@@ -41,7 +41,7 @@ sections:
         image_has_padding: true
         subtitle: ' '
         image_width: thirty-three
-        image: images/Untitled story (11).png
+        image: images/pixeltrue-icons-seo-growth-1.png
       - type: grid_item
         title: ''
         title_align: center
