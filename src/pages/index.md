@@ -36,7 +36,7 @@ sections:
         actions_align: left
         image_alt: Section item 1 icon
         image_position: top
-        image_align: left
+        image_align: center
         image_has_padding: true
         subtitle: ' '
         image_width: thirty-three
