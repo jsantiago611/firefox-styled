@@ -106,7 +106,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_image: images/beige-robin.png
-    background_image_size: auto
+    background_image_size: cover
     background_image_position: center center
   - title: Focus on serving your customers.
     subtitle: ''
