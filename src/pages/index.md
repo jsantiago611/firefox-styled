@@ -199,7 +199,7 @@ sections:
     subtitle: OUR THREE STEP PROCESS
     actions:
       - type: action
-        label: CHOOSE YOUR PLAN
+        label: Choose your design
         url: /style-guide
         style: primary
     grid_items:
