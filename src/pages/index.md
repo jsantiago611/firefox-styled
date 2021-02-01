@@ -209,10 +209,18 @@ sections:
         title_align: center
         image_position: top
         image_has_padding: false
-        content: |
+        content: >+
           # 1.
 
-          ### Choose your design&#xA;&#xA;
+
+          ### Choose your design
+
+
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+          ligula, cursus id molestie vel, maximus aliquet risus.
+
+
+
       - type: grid_item
         title: 2. Watch as we customize
         subtitle: >-
