@@ -68,7 +68,7 @@ sections:
         image_align: left
         image_has_padding: true
         subtitle: '  '
-        image: images/Untitled story (13).png
+        image: images/men talking.png
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
