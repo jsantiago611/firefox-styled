@@ -205,9 +205,7 @@ sections:
     grid_items:
       - type: grid_item
         title: ''
-        subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+        subtitle: ''
         title_align: center
         image_position: top
         image_has_padding: false
