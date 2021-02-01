@@ -75,7 +75,7 @@ sections:
     background_color: secondary
     padding_top: none
     has_border: true
-    padding_bottom: small
+    padding_bottom: none
   - type: features_section
     title: ''
     subtitle: ' '
