@@ -130,7 +130,7 @@ sections:
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        content_align: center
+        content_align: left
         actions: []
         actions_align: left
         actions_width: auto
