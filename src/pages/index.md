@@ -148,8 +148,9 @@ sections:
           ### *Made for you.*
 
 
-          Why should captive agents have all the toys? Enjoy a modern, slick
-          site for your independent insurance agency.
+          Enjoy a pain-free, agent-friendly platform. Make changes without the
+          hassle of reaching out to a developer or learning tech skills. Of
+          course, if you need help, we'll be here for you every step of the way.
         content_align: left
         actions: []
         actions_align: left
