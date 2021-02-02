@@ -113,7 +113,7 @@ sections:
     actions:
       - label: Choose your design
         url: lorem-ipsum
-        style: secondary
+        style: primary
         has_icon: true
         icon: arrow-right
         icon_position: right
