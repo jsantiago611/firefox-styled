@@ -200,17 +200,18 @@ sections:
     features:
       - title: $49 / Month
         subtitle: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: |
+          ###### Included in every purchase:
 
+          *   We build it for you
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   4 Standard pages (including a quoting page)
 
+          *   Blog Functionality
 
-          - Lorem ipsum
+          *   Small Design Tweaks
 
-          - dolor sit amet
+          *   Launch on your domain.
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: ''
