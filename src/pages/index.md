@@ -198,7 +198,7 @@ sections:
   - title: Simple Pricing with no surprises
     subtitle: ''
     features:
-      - title: lorem-ipsum
+      - title: $49 / Month
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
