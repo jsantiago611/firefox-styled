@@ -196,7 +196,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: ''
     features:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
