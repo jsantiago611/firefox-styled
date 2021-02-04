@@ -234,6 +234,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
+    background_image: images/Untitled story (16).png
   - type: grid_section
     title: Get your site
     subtitle: OUR THREE STEP PROCESS
