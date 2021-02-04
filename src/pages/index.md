@@ -203,18 +203,10 @@ sections:
     features:
       - title: $49 / Month
         subtitle: ''
-        content: |
-          #### Included in every purchase:
-
-          1.  We build it for you
-
-          2.  4 Standard pages (including a quoting page)
-
-          3.  Blog Functionality
-
-          4.  Small Design Tweaks
-
-          5.  Launch on your domain.
+        content: >
+          #### **Included in every purchase:** Full web build, 4 Standard pages
+          (including a quoting page), Blog Functionality, and Small Design
+          Tweaks (i.e. Logo, colors, graphics), all launched on your own domain.
         actions:
           - label: Choose your design
             url: lorem-ipsum
