@@ -199,7 +199,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - title: 'Simple Pricing '
-    subtitle: ''
+    subtitle: No startup costs. No hidden fees. No surprises.
     features:
       - title: $49 / Month
         subtitle: lorem-ipsum
