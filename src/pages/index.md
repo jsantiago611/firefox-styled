@@ -220,7 +220,7 @@ sections:
         video_embed_html: ''
         media_position: top
         media_width: fifty
-        align: right
+        align: center
         type: feature
         image: images/Untitled story (15).png
     feature_padding_vert: medium
