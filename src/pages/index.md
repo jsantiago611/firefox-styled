@@ -376,7 +376,7 @@ sections:
   - title: 'If you have questions, We can talk some more.'
     content: ''
     actions:
-      - label: Choose your design
+      - label: Let's talk
         url: lorem-ipsum
         style: primary
         has_icon: true
