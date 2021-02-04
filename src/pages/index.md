@@ -83,12 +83,15 @@ sections:
       - type: feature
         title: Do you struggle with maintaining an outdated agency site?
         subtitle: ''
-        content: |
+        content: |+
+
+
           ✘ Is your **outdated site design** scaring away customers?
 
           ✘ Do you spend way **too much time** troubleshooting your agency site?
 
           ✘ Is your agency site basically **an online brochure**?
+
         actions:
           - type: action
             label: Choose your design
