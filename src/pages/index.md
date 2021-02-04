@@ -373,7 +373,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-  - title: 'If you have questions, We can talk some more...'
+  - title: Questions? Give us a shout!
     content: ''
     actions:
       - label: Let's talk
