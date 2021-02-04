@@ -297,7 +297,7 @@ sections:
         content_align: center
     grid_cols: three
     align: center
-    background_color: none
+    background_color: secondary
     enable_cards: false
     padding_top: large
     padding_bottom: large
