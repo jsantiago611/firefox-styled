@@ -295,7 +295,7 @@ sections:
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus.
         content_align: center
-      - title: lorem-ipsum
+      - title: ''
         subtitle: ''
         title_align: left
         content: >
