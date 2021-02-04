@@ -401,7 +401,7 @@ sections:
     background_image_repeat: no-repeat
     type: cta_section
   - title: Simple Pricing
-    subtitle: lorem-ipsum
+    subtitle: 'No Hidden Fees / No Startup Fees / '
     actions: []
     grid_items:
       - title: lorem-ipsum
