@@ -90,8 +90,8 @@ sections:
           ✘ I'm **Not a "tech" person**
 
 
-          ✘ I have **\*\*no time \*\*** to maintain an agency site - I gotta
-          focus on my customers!
+          ✘ I have **no time** to maintain an agency site - I gotta focus on my
+          customers!
         actions:
           - type: action
             label: Choose your design
