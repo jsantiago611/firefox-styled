@@ -374,7 +374,7 @@ sections:
     background_image_repeat: no-repeat
     type: form_section
   - title: Questions? Give us a shout!
-    content: ''
+    content: 'We’ll help you decide whether one of our agency templates is right for your agency, answer technical questions, help you choose the best template for your agency and more.'
     actions:
       - label: Let's talk
         url: lorem-ipsum
