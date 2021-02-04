@@ -223,7 +223,6 @@ sections:
         media_width: thirty-three
         align: center
         type: feature
-        image: images/Untitled story (15).png
     feature_padding_vert: medium
     align: center
     padding_top: medium
