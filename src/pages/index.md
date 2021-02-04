@@ -83,15 +83,12 @@ sections:
       - type: feature
         title: What's stopping you from launching a site for your insurance agency?
         subtitle: ''
-        content: 
-          ✘ Websites **cost way too much**!
+        content: |2
+             ✘ Websites **cost way too much**!
 
+             ✘ I'm **Not a "tech" person**
 
-          ✘ I'm **Not a "tech" person**
-
-
-          ✘ I have **no time **to maintain an agency site - I gotta focus on
-          my customers!
+             ✘ I have \*\*no time \*\*to maintain an agency site - I gotta focus on my customers!
         actions:
           - type: action
             label: Choose your design
