@@ -204,7 +204,7 @@ sections:
       - title: $49 / Month
         subtitle: ''
         content: >
-          #### **Included in every purchase:** Full web build, 4 Standard pages
+          ##### **Included in every purchase:** Full web build, 4 Standard pages
           (including a quoting page), Blog Functionality, and Small Design
           Tweaks (i.e. Logo, colors, graphics), all launched on your own domain.
         actions:
