@@ -299,7 +299,7 @@ sections:
         subtitle: ''
         title_align: left
         content: >
-          ### 4. Choose your design
+          ### ***4. Choose your design***
 
 
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
