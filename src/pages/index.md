@@ -216,7 +216,7 @@ sections:
 
           5.  Launch on your domain.
         actions:
-          - label: ''
+          - label: Hc
             url: lorem-ipsum
             style: link
             has_icon: false
