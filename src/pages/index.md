@@ -206,7 +206,7 @@ sections:
         content: |
           #### Included in every purchase:
 
-          ##### We build it for you
+          *   We build it for you
 
           *   4 Standard pages (including a quoting page)
 
