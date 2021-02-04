@@ -314,7 +314,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-    grid_cols: three
+    grid_cols: four
     align: center
     background_color: secondary
     enable_cards: false
