@@ -219,7 +219,7 @@ sections:
             type: action
         image_alt: arrow pointing to insurance website pricing
         video_embed_html: ''
-        media_position: bottom
+        media_position: right
         media_width: thirty-three
         align: center
         type: feature
