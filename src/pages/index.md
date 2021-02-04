@@ -286,7 +286,7 @@ sections:
         image_position: top
         image_has_padding: true
         content: >
-          ### ***3. Do your Happy Dance***
+          #### ***3. Do your Happy Dance***
 
 
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
