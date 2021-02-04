@@ -202,7 +202,7 @@ sections:
     subtitle: ''
     features:
       - title: $49 / Month
-        subtitle: lorem-ipsum
+        subtitle: ''
         content: |
           #### Included in every purchase:
 
