@@ -217,7 +217,7 @@ sections:
           *   Launch on your domain.
         actions: []
         image_alt: arrow pointing to insurance website pricing
-        video_embed_html: '1'
+        video_embed_html: ''
         media_position: top
         media_width: fifty
         align: center
