@@ -336,7 +336,7 @@ sections:
     align: left
     padding_top: large
     padding_bottom: large
-    background_color: none
+    background_color: primary
   - title: Questions? Give us a shout!
     content: >-
       We’ll help you decide whether one of our agency templates is right for
