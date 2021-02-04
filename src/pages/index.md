@@ -204,9 +204,9 @@ sections:
       - title: $49 / Month
         subtitle: lorem-ipsum
         content: |
-          ###### Included in every purchase:
+          ##### Included in every purchase:
 
-          *   We build it for you
+          We build it for you
 
           *   4 Standard pages (including a quoting page)
 
