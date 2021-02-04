@@ -337,45 +337,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
-  - title: >-
-      [FREE GUIDE] Top 5 Things all Insurance Agents MUST include on their
-      agency website
-    subtitle: Enter your email address to download our free guide.
-    title_align: left
-    content: ''
-    content_align: left
-    form_position: right
-    form_width: fourty
-    form_layout: inline
-    enable_card: true
-    form_id: lorem-ipsum
-    form_action: lorem-ipsum
-    form_fields:
-      - input_type: text
-        name: First Name
-        label: ''
-        default_value: First Name
-        options: []
-        is_required: true
-        type: form_field
-      - input_type: email
-        name: lorem-ipsum
-        label: ''
-        default_value: Email
-        options: []
-        is_required: true
-        type: form_field
-    submit_label: SIGN ME UP
-    align_vert: top
-    padding_top: medium
-    padding_bottom: medium
-    has_border: true
-    background_color: primary
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: form_section
   - title: Questions? Give us a shout!
     content: >-
       We’ll help you decide whether one of our agency templates is right for
