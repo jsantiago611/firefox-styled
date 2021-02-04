@@ -81,7 +81,7 @@ sections:
     subtitle: ' '
     features:
       - type: feature
-        title: Do you struggle with maintaining an outdated agency site?
+        title: What's stopping you from launching a site for your insurance agency?
         subtitle: ''
         content: |+
 
