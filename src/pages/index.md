@@ -83,15 +83,12 @@ sections:
       - type: feature
         title: What's stopping you from launching a site for your insurance agency?
         subtitle: ''
-        content: |+
+        content: |
+          ✘ Websites **cost way too much**!
 
+          ✘ **Not a "tech" person**
 
-          ✘ Is your **outdated site design** scaring away customers?
-
-          ✘ Do you spend way **too much time** troubleshooting your agency site?
-
-          ✘ Is your agency site basically **an online brochure**?
-
+          ✘ **No time** to maintain an agency site
         actions:
           - type: action
             label: Choose your design
