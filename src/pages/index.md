@@ -296,7 +296,7 @@ sections:
           ligula, cursus id molestie vel, maximus aliquet risus.
         content_align: center
       - title: lorem-ipsum
-        subtitle: lorem-ipsum
+        subtitle: ''
         title_align: left
         content: >
           4\. Choose your design
