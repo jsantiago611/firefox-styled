@@ -373,7 +373,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
-  - title: Questions? Let's Talk!
+  - title: If you have questions...
     content: ''
     actions:
       - label: Choose your design
