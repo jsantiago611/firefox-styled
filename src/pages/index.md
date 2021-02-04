@@ -206,9 +206,7 @@ sections:
         content: >
           **Included in every purchase:** Full web build, 4 Standard pages
           (including a quoting page), Blog Functionality, and Small Design
-          Tweaks (i.e. Logo, colors, graphics), all launched on your own
-          domain.![](<diligent-aluminum/static/images/Elements for Personal
-          Insurance Web Co (1).png>)
+          Tweaks (i.e. Logo, colors, graphics), all launched on your own domain.
         actions:
           - label: Choose your design
             url: lorem-ipsum
