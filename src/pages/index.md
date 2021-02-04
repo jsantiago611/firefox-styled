@@ -206,15 +206,15 @@ sections:
         content: |
           #### Included in every purchase:
 
-          *   We build it for you
+          1.  We build it for you
 
-          *   4 Standard pages (including a quoting page)
+          2.  4 Standard pages (including a quoting page)
 
-          *   Blog Functionality
+          3.  Blog Functionality
 
-          *   Small Design Tweaks
+          4.  Small Design Tweaks
 
-          *   Launch on your domain.
+          5.  Launch on your domain.
         actions: []
         image_alt: arrow pointing to insurance website pricing
         video_embed_html: ''
