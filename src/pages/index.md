@@ -165,10 +165,13 @@ sections:
 
           *   A pain-free, agent-friendly platform that allows you to make
           changes without the hassle of reaching out to a developer or learning
-          tech skills. 
+          tech skills.
 
 
           *   Copy that converts
+
+
+          *   Affordable monthly costs
         content_align: left
         actions: []
         actions_align: left
