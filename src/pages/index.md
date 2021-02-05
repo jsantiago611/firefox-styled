@@ -14,7 +14,7 @@ sections:
         has_icon: false
         icon: arrow-right
     image_alt: Hero section placeholder image
-    media_position: right
+    media_position: top
     media_width: fifty
     align: left
     padding_top: large
