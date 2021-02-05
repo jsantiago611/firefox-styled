@@ -111,6 +111,7 @@ sections:
     padding_bottom: large
     background_image_size: auto
     background_image_position: center center
+    background_image: images/Untitled story (23).png
   - title: >-
       Everything you need to launch an insurance website that generates leads
       and reduces service work
