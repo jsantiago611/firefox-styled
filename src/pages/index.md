@@ -302,7 +302,7 @@ sections:
         subtitle: ''
         title_align: left
         content: >
-          ## 2.
+          ## 4.
 
 
           ### Watch as we customize
