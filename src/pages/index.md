@@ -81,7 +81,7 @@ sections:
     subtitle: ' '
     features:
       - type: feature
-        title: 'You can''t afford to have an ineffective '
+        title: You can't afford to have an ineffective insurance website
         subtitle: ' '
         content: >
           ##### ✘ Websites **cost way too much**!
