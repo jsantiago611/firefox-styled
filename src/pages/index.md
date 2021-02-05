@@ -166,7 +166,7 @@ sections:
         image_align: center
         image_has_padding: false
         type: grid_item
-        image: images/fabulous-sage.png
+        image: images/Untitled story (10).png
       - title: ''
         subtitle: ''
         title_align: left
