@@ -25,6 +25,66 @@ sections:
     image: images/Elements for Personal Insurance Web Co (10).png
     background_image: images/Untitled story (22).png
     background_image_size: cover
+  - type: grid_section
+    title: ''
+    subtitle: ''
+    grid_items:
+      - type: grid_item
+        title: ''
+        title_align: center
+        content: |
+          #### **Blazing-Fast**
+        content_align: center
+        actions: []
+        actions_align: left
+        image_alt: Section item 1 icon
+        image_position: top
+        image_align: center
+        image_has_padding: false
+        subtitle: ' '
+        image_width: thirty-three
+        image: images/icons8-speedometer-50.png
+      - type: grid_item
+        title: ''
+        title_align: center
+        content: |
+          #### **Conversion-Focused**
+        content_align: center
+        actions: []
+        actions_align: left
+        image_alt: Section item 2 icon
+        image_position: top
+        image_align: center
+        image_has_padding: true
+        subtitle: '  '
+        image: images/icons8-mission-50.png
+        image_width: thirty-three
+      - type: grid_item
+        title: ''
+        title_align: center
+        content: |
+          #### **Frustration-Free**
+        content_align: center
+        actions: []
+        actions_align: left
+        image_alt: Section item 3 icon
+        image_position: top
+        image_align: center
+        image_has_padding: false
+        subtitle: '  '
+        image: images/icons8-checked-50.png
+        image_width: thirty-three
+    grid_cols: three
+    grid_gap_vert: medium
+    grid_gap_horiz: large
+    enable_cards: false
+    align: center
+    background_color: secondary
+    padding_top: small
+    has_border: false
+    padding_bottom: small
+    background_image_position: center top
+    background_image_size: auto
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     actions: []
@@ -155,66 +215,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - type: grid_section
-    title: ''
-    subtitle: ''
-    grid_items:
-      - type: grid_item
-        title: ''
-        title_align: center
-        content: |
-          #### **Blazing-Fast**
-        content_align: center
-        actions: []
-        actions_align: left
-        image_alt: Section item 1 icon
-        image_position: top
-        image_align: center
-        image_has_padding: false
-        subtitle: ' '
-        image_width: thirty-three
-        image: images/icons8-speedometer-50.png
-      - type: grid_item
-        title: ''
-        title_align: center
-        content: |
-          #### **Conversion-Focused**
-        content_align: center
-        actions: []
-        actions_align: left
-        image_alt: Section item 2 icon
-        image_position: top
-        image_align: center
-        image_has_padding: true
-        subtitle: '  '
-        image: images/icons8-mission-50.png
-        image_width: thirty-three
-      - type: grid_item
-        title: ''
-        title_align: center
-        content: |
-          #### **Frustration-Free**
-        content_align: center
-        actions: []
-        actions_align: left
-        image_alt: Section item 3 icon
-        image_position: top
-        image_align: center
-        image_has_padding: false
-        subtitle: '  '
-        image: images/icons8-checked-50.png
-        image_width: thirty-three
-    grid_cols: three
-    grid_gap_vert: medium
-    grid_gap_horiz: large
-    enable_cards: false
-    align: center
-    background_color: secondary
-    padding_top: small
-    has_border: false
-    padding_bottom: small
-    background_image_position: center top
-    background_image_size: auto
   - title: 'Simple Pricing with no startup costs, no hidden fees, no surprises.'
     subtitle: ''
     features:
