@@ -32,7 +32,7 @@ sections:
         title: ''
         title_align: center
         content: |
-          ### Blazing-Fast
+          #### **Blazing-Fast**
         content_align: left
         actions: []
         actions_align: left
