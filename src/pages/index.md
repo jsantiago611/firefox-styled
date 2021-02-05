@@ -187,7 +187,7 @@ sections:
         image_align: center
         image_has_padding: false
         type: grid_item
-        image: images/elite-mars.png
+        image: images/icons8-delete-10.png
     grid_cols: two
     grid_gap_vert: small
     grid_gap_horiz: small
