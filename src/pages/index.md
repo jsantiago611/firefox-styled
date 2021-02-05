@@ -132,7 +132,16 @@ sections:
       - title: ''
         subtitle: ''
         title_align: left
-        content: "### *When you hire a general freelancer, you may get:*\n\n\U00010102 Low-quality design\n\n*   Design that does not encourage leads to request a quote\n\n*   Sites that are not optimized for mobile\n\n*   Lots of back-and-forth with the designer\n"
+        content: |
+          ### *When you hire a general freelancer, you may get:*
+
+          ✘ Low-quality design
+
+          *   Design that does not encourage leads to request a quote
+
+          *   Sites that are not optimized for mobile
+
+          *   Lots of back-and-forth with the designer
         content_align: left
         actions: []
         actions_align: left
