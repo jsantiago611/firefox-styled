@@ -151,7 +151,7 @@ sections:
         subtitle: ''
         title_align: left
         content: >
-          ### *When you choose our designs, you'll get:*
+          #### *When you choose our designs, you'll get:*
 
 
           *   Beautiful and modern design
