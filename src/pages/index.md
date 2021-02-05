@@ -160,9 +160,15 @@ sections:
           ### *When you choose our designs, you'll get:*
 
 
-          Enjoy a pain-free, agent-friendly platform. Make changes without the
-          hassle of reaching out to a developer or learning tech skills. Of
-          course, if you need help, we'll be here for you every step of the way.
+          *   Beautiful and modern design
+
+
+          *   A pain-free, agent-friendly platform that allows you to make
+          changes without the hassle of reaching out to a developer or learning
+          tech skills. 
+
+
+          *   Copy that converts
         content_align: left
         actions: []
         actions_align: left
