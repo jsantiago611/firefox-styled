@@ -113,7 +113,7 @@ sections:
     background_image: images/spectacular-planet.png
   - title: >-
       Everything you need to launch an insurance website that generates leads
-      and reduces service work.
+      and reduces service work
     subtitle: ''
     actions:
       - label: Choose your design
