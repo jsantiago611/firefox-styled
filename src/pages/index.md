@@ -204,17 +204,16 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: |
+          *When you hire a general freelancer, you may get:*
 
+          *   Low-quality design
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   Design that does not encourage leads to request a quote
 
+          *   Sites that are not optimized for mobile
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          *   Lots of back-and-forth with the designer
         content_align: left
         actions: []
         actions_align: left
