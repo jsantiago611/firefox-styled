@@ -112,7 +112,7 @@ sections:
     background_image_size: auto
     background_image_position: center top
   - title: A professional site makes a big difference.
-    subtitle: ''
+    subtitle: THE DIFFERENCE
     actions:
       - label: Choose your design
         url: lorem-ipsum
