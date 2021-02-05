@@ -333,6 +333,7 @@ sections:
         style: primary
         icon: arrow-right
         icon_position: right
+        has_icon: true
     actions_position: right
     actions_width: fourty
     align: left
