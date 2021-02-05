@@ -70,7 +70,7 @@ sections:
         subtitle: '  '
     grid_cols: three
     grid_gap_vert: small
-    grid_gap_horiz: small
+    grid_gap_horiz: large
     enable_cards: false
     align: center
     background_color: secondary
