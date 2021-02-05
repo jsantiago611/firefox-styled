@@ -68,7 +68,7 @@ sections:
         actions_align: left
         image_alt: Section item 3 icon
         image_position: left
-        image_align: center
+        image_align: right
         image_has_padding: true
         subtitle: '  '
         image: images/icons8-checked-50.png
