@@ -200,7 +200,7 @@ sections:
   - title: Thinking of tackling it yourself? Consider this.
     subtitle: ''
     actions:
-      - label: lorem-ipsum
+      - label: Choose your design
         url: lorem-ipsum
         style: link
         has_icon: false
