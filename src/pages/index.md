@@ -41,7 +41,7 @@ sections:
         image_align: right
         image_has_padding: false
         subtitle: ' '
-        image_width: thirty-three
+        image_width: twenty-five
         image: images/icons8-quick-mode-on-50.png
       - type: grid_item
         title: ''
