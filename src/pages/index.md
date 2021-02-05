@@ -165,7 +165,7 @@ sections:
           ### *When you choose our designs, you'll get:*
 
 
-          *   Beautiful and modern design
+          ☒ Beautiful and modern design
 
 
           *   A pain-free, agent-friendly platform that allows you to make
