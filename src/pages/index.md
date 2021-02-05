@@ -137,7 +137,7 @@ sections:
 
 
           ![](https://preview--diligent-aluminum-ff3d2.stackbit.dev/images/icons8-delete-23.png) 
-          **Low-quality design**
+          Low-quality design
 
 
           *   Design that does not encourage leads to request a quote
