@@ -81,7 +81,7 @@ sections:
     subtitle: ' '
     features:
       - type: feature
-        title: What's stopping you from launching a site for your insurance agency?
+        title: 'You can''t afford to have an ineffective '
         subtitle: ' '
         content: >
           ##### ✘ Websites **cost way too much**!
