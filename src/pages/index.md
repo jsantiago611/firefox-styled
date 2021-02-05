@@ -92,15 +92,12 @@ sections:
       - type: feature
         title: 'But first, let''s ask some tough questions.'
         subtitle: ' '
-        content: >
+        content: |
           ##### ✘ Websites **cost way too much**!
-
 
           ##### ✘ I'm **Not a "tech" person**
 
-
-          ##### ✘ I have **no time** to maintain an agency site - I gotta focus
-          on my customers!
+          #####
         actions:
           - type: action
             label: Choose your design
