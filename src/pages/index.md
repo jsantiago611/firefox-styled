@@ -62,7 +62,7 @@ sections:
         title: ''
         title_align: center
         content: |
-          #### → Frustration-Free
+          #### Frustration-Free
         content_align: left
         actions: []
         actions_align: left
