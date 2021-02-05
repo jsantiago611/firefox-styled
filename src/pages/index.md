@@ -110,7 +110,7 @@ sections:
     padding_bottom: large
     background_image_size: auto
     background_image_position: left center
-    background_image: images/spectacular-planet.png
+    background_image: images/Untitled story (18).png
   - title: Focus on serving your customers.
     subtitle: ''
     actions:
