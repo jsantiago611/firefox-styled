@@ -97,7 +97,7 @@ sections:
             label: Choose your design
             url: /style-guide
             style: primary
-            has_icon: true
+            has_icon: false
             icon: arrow-right
             icon_position: right
         image_alt: Feature 1 placeholder image
