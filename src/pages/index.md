@@ -190,7 +190,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
-  - title: Thinking of tackling it yourself? Consider this.
+  - title: "Thinking of tackling it yourself?\_ \_ \_ \_ \_ Consider this."
     subtitle: ''
     actions:
       - label: Choose your design
