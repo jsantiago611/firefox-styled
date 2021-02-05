@@ -33,7 +33,7 @@ sections:
         title_align: center
         content: |
           #### **Blazing-Fast**
-        content_align: left
+        content_align: center
         actions: []
         actions_align: left
         image_alt: Section item 1 icon
