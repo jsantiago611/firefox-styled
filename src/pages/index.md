@@ -47,7 +47,7 @@ sections:
         title: ''
         title_align: center
         content: |
-          #### → Conversion-Focused
+          #### **Conversion-Focused**
         content_align: left
         actions: []
         actions_align: left
