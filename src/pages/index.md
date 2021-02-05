@@ -132,14 +132,20 @@ sections:
       - title: ''
         subtitle: ''
         title_align: left
-        content: |
+        content: >
           ### *When you hire a general freelancer, you may get:*
 
-          *   Low-quality design
+
+          *  
+          ![](https://preview--diligent-aluminum-ff3d2.stackbit.dev/images/elite-mars.png)Low-quality
+          design
+
 
           *   Design that does not encourage leads to request a quote
 
+
           *   Sites that are not optimized for mobile
+
 
           *   Lots of back-and-forth with the designer
         content_align: left
