@@ -340,7 +340,7 @@ sections:
         icon: arrow-right
         icon_position: right
         has_icon: true
-    actions_position: right
+    actions_position: bottom
     actions_width: fourty
     align: left
     padding_top: large
