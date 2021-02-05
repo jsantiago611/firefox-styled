@@ -365,7 +365,7 @@ sections:
         subtitle: ''
         title_align: left
         content: >
-          ## 4.
+          # 4.
 
 
           ### Watch as we customize
