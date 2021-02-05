@@ -332,6 +332,7 @@ sections:
         url: /features
         style: primary
         icon: arrow-right
+        icon_position: right
     actions_position: right
     actions_width: fourty
     align: left
