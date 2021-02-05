@@ -22,7 +22,7 @@ sections:
     background_color: secondary
     background_image_opacity: 0
     background_image_position: center center
-    image: images/Elements for Personal Insurance Web Co (10).png
+    image: images/Elements for Personal Insurance Web Co (11).png
     background_image_size: cover
   - type: grid_section
     title: ''
