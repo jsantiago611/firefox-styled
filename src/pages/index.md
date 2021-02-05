@@ -79,6 +79,7 @@ sections:
     padding_bottom: none
     background_image_position: center top
     background_image_size: auto
+    background_image: images/Untitled story (25).png
   - type: features_section
     title: ''
     subtitle: ' '
