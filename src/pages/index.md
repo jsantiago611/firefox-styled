@@ -132,21 +132,7 @@ sections:
       - title: ''
         subtitle: ''
         title_align: left
-        content: >
-          ### *When you hire a general freelancer, you may get:*
-
-
-          ![](https://preview--diligent-aluminum-ff3d2.stackbit.dev/images/icons8-delete-20.png)   
-          Low-quality design
-
-
-          *   Design that does not encourage leads to request a quote
-
-
-          *   Sites that are not optimized for mobile
-
-
-          *   Lots of back-and-forth with the designer
+        content: "### *When you hire a general freelancer, you may get:*\n\n\U00010102 Low-quality design\n\n*   Design that does not encourage leads to request a quote\n\n*   Sites that are not optimized for mobile\n\n*   Lots of back-and-forth with the designer\n"
         content_align: left
         actions: []
         actions_align: left
