@@ -52,7 +52,7 @@ sections:
         actions: []
         actions_align: left
         image_alt: Section item 2 icon
-        image_position: top
+        image_position: left
         image_align: left
         image_has_padding: true
         subtitle: '  '
