@@ -69,7 +69,7 @@ sections:
         image_alt: Section item 3 icon
         image_position: left
         image_align: right
-        image_has_padding: true
+        image_has_padding: false
         subtitle: '  '
         image: images/icons8-checked-50.png
         image_width: thirty-three
