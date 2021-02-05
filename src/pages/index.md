@@ -331,6 +331,7 @@ sections:
         label: Choose your design
         url: /features
         style: primary
+        icon: arrow-right
     actions_position: right
     actions_width: fourty
     align: left
