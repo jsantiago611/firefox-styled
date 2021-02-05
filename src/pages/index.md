@@ -114,7 +114,6 @@ sections:
     padding_bottom: large
     background_image_size: auto
     background_image_position: center top
-    background_image: images/Untitled story (28).png
   - title: A professional site makes a big difference.
     subtitle: ''
     actions:
