@@ -373,6 +373,5 @@ sections:
     background_image_position: center bottom
     background_image_repeat: no-repeat
     type: cta_section
-    background_image: images/Untitled story (17).png
 template: advanced
 ---
