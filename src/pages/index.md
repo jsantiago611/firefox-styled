@@ -92,10 +92,12 @@ sections:
       - type: feature
         title: 'But first, let''s ask some tough questions.'
         subtitle: ' '
-        content: |
-          ##### ✘ Websites **cost way too much**!
+        content: >
+          Is your website a glorified online brochure? Do you believe in the
+          client-attracting and service-alliviating power of an agency website,
+          but are you short on time and tech skills? Are you struggling to get
+          leads online?
 
-          ##### ✘ I'm **Not a "tech" person**
 
           #####
         actions:
