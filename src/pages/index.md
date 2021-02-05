@@ -346,7 +346,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-  - title: Questions? Give us a shout!
+  - title: Get the insurance agency site you deserve.
     content: >-
       We’ll help you decide whether one of our agency templates is right for
       your agency, answer technical questions, help you choose the best template
