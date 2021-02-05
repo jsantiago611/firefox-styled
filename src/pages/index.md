@@ -132,19 +132,14 @@ sections:
       - title: ''
         subtitle: ''
         title_align: left
-        content: >
-          ### *When you hire from a general freelancer (FIVRR, I'm talking to
-          you), you may get:*
-
+        content: |
+          ### *When you hire a general freelancer (FIVRR), you may get:*
 
           *   Low-quality design
 
-
           *   Design that does not encourage leads to request a quote
 
-
           *   Sites that are not optimized for mobile
-
 
           *   Lots of back-and-forth with the designer
         content_align: left
