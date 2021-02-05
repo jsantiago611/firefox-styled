@@ -24,6 +24,7 @@ sections:
     background_image_position: center bottom
     image: images/Elements for Personal Insurance Web Co (10).png
     background_image: images/Untitled story (22).png
+    background_image_size: cover
   - type: grid_section
     title: ''
     subtitle: ''
