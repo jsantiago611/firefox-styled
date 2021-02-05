@@ -90,7 +90,7 @@ sections:
     subtitle: ' '
     features:
       - type: feature
-        title: What's stopping you from launching you agency website?
+        title: What's stopping you from launching your agency website?
         subtitle: ' '
         content: >
           ##### ✘ Websites **cost way too much**!
