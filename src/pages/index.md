@@ -109,7 +109,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_image_size: auto
-    background_image_position: left center
+    background_image_position: right center
     background_image: images/Untitled story (18).png
   - title: Focus on serving your customers.
     subtitle: ''
