@@ -289,7 +289,10 @@ sections:
         image_position: top
         image_has_padding: true
         content: >
-          #### ***3. Do your Happy Dance***
+          # 3.
+
+
+          ### Watch as we customize
 
 
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
