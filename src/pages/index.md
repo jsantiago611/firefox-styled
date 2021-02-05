@@ -101,7 +101,7 @@ sections:
           - type: action
             label: It's time for a professional website ↓
             url: /style-guide
-            style: link
+            style: secondary
             has_icon: false
             icon: arrow-right
             icon_position: right
