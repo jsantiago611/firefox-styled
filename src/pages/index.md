@@ -225,7 +225,7 @@ sections:
         image_has_padding: false
         type: grid_item
       - title: ''
-        subtitle: lorem-ipsum
+        subtitle: ''
         title_align: left
         content: |
           #### *When you hire a general freelancer, you may get:*
