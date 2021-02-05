@@ -67,7 +67,7 @@ sections:
         actions: []
         actions_align: left
         image_alt: Section item 3 icon
-        image_position: left
+        image_position: top
         image_align: center
         image_has_padding: false
         subtitle: '  '
