@@ -60,7 +60,7 @@ sections:
         title_align: center
         content: |
           #### → Frustration-Free
-        content_align: right
+        content_align: left
         actions: []
         actions_align: left
         image_alt: Section item 3 icon
