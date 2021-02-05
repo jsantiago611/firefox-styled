@@ -53,7 +53,7 @@ sections:
         actions_align: left
         image_alt: Section item 2 icon
         image_position: left
-        image_align: right
+        image_align: center
         image_has_padding: true
         subtitle: '  '
         image: images/icons8-mission-50.png
