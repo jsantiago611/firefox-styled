@@ -42,7 +42,7 @@ sections:
         image_has_padding: false
         subtitle: ' '
         image_width: thirty-three
-        image: images/icons8-quick-mode-on-50.png
+        image: images/icons8-speedometer-50.png
       - type: grid_item
         title: ''
         title_align: center
