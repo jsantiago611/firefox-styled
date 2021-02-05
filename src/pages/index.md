@@ -310,7 +310,7 @@ sections:
 
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus.
-        content_align: right
+        content_align: center
         actions: []
         actions_align: left
         actions_width: auto
