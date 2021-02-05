@@ -90,7 +90,7 @@ sections:
     subtitle: ' '
     features:
       - type: feature
-        title: 'But first, let''s ask some tough questions'
+        title: 'But first, let''s ask some tough questions.'
         subtitle: ' '
         content: >
           ##### ✘ Websites **cost way too much**!
