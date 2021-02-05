@@ -78,7 +78,7 @@ sections:
     grid_gap_horiz: large
     enable_cards: false
     align: center
-    background_color: secondary
+    background_color: primary
     padding_top: small
     has_border: false
     padding_bottom: small
