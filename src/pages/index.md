@@ -136,7 +136,7 @@ sections:
           ### *When you hire a general freelancer, you may get:*
 
 
-          ![](https://preview--diligent-aluminum-ff3d2.stackbit.dev/images/icons8-delete-20.png) 
+          ![](https://preview--diligent-aluminum-ff3d2.stackbit.dev/images/icons8-delete-20.png)   
           Low-quality design
 
 
