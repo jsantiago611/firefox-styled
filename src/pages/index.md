@@ -207,7 +207,7 @@ sections:
         subtitle: ''
         title_align: left
         content: |
-          ### *When you hire a general freelancer, you may get:*
+          #### *When you hire a general freelancer, you may get:*
 
           *   Sites that are not optimized for mobile
 
