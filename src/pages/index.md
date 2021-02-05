@@ -159,10 +159,10 @@ sections:
           ### *When you choose our designs, you'll get:*
 
 
-          →  Beautiful and modern design
+          *   Beautiful and modern design
 
 
-          →  A pain-free, agent-friendly platform that allows you to make
+          *   A pain-free, agent-friendly platform that allows you to make
           changes without the hassle of reaching out to a developer or learning
           tech skills.
 
