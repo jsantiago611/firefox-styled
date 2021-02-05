@@ -157,7 +157,7 @@ sections:
         subtitle: ''
         title_align: left
         content: >
-          ### *Made for you.*
+          ### *When you choose our designs, you'll get:*
 
 
           Enjoy a pain-free, agent-friendly platform. Make changes without the
