@@ -57,6 +57,7 @@ sections:
         image_has_padding: true
         subtitle: '  '
         image: images/icons8-mission-50.png
+        image_width: thirty-three
       - type: grid_item
         title: ''
         title_align: center
