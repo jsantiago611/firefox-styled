@@ -95,7 +95,7 @@ sections:
           to get leads online?
         actions:
           - type: action
-            label: It's time for a professional website ↓
+            label: It's time for a professional website  ↓
             url: /style-guide
             style: primary
             has_icon: false
