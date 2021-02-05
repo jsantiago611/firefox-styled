@@ -111,7 +111,9 @@ sections:
     background_image_size: auto
     background_image_position: center center
     background_image: images/spectacular-planet.png
-  - title: Focus on serving your customers.
+  - title: >-
+      Everything you need to launch an insurance website that generates leads
+      and
     subtitle: ''
     actions:
       - label: Choose your design
