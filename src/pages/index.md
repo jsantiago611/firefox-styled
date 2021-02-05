@@ -76,7 +76,7 @@ sections:
     enable_cards: false
     align: center
     background_color: primary
-    padding_top: small
+    padding_top: none
     has_border: false
     padding_bottom: small
     background_image_position: center top
