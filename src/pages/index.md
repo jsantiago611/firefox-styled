@@ -409,7 +409,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-  - title: Get the premium insurance agency site you deserve.
+  - title: Get the *premium insurance agency site you deserve.
     content: >-
       We’ll help you decide whether one of our agency templates is right for
       your agency, answer technical questions, help you choose the best template
