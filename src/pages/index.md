@@ -78,6 +78,7 @@ sections:
     has_border: false
     padding_bottom: none
     background_image_position: center top
+    background_image_size: contain
   - type: features_section
     title: ''
     subtitle: ' '
