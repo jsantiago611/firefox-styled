@@ -94,12 +94,9 @@ sections:
         subtitle: ' '
         content: >
           #### Is your website a glorified online brochure? Do you believe in
-          the **client-attracting** and **service-alleviating **power of an
-          agency website, but are you short on time and tech skills? Are you
-          struggling to get leads online?
-
-
-          #####
+          the **client-attracting** and service-alleviating power of an agency
+          website, but are you short on time and tech skills? Are you struggling
+          to get leads online?
         actions:
           - type: action
             label: Choose your design
