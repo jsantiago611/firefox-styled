@@ -202,7 +202,7 @@ sections:
     actions: []
     grid_items:
       - title: ''
-        subtitle: lorem-ipsum
+        subtitle: ''
         title_align: left
         content: |
           *When you hire a general freelancer, you may get:*
