@@ -133,7 +133,7 @@ sections:
         subtitle: ''
         title_align: left
         content: |
-          ### *When you hire a general freelancer (FIVRR), you may get:*
+          ### *When you hire a general freelancer, you may get:*
 
           *   Low-quality design
 
