@@ -69,7 +69,6 @@ sections:
         image_align: center
         image_has_padding: false
         subtitle: '  '
-        image: images/icons8-checked-50.png
         image_width: thirty-three
     grid_cols: three
     grid_gap_vert: medium
