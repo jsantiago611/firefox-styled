@@ -78,7 +78,7 @@ sections:
     background_color: primary
     padding_top: none
     has_border: false
-    padding_bottom: small
+    padding_bottom: none
     background_image_position: center top
     background_image_size: auto
   - type: features_section
