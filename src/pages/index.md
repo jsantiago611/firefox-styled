@@ -135,7 +135,7 @@ sections:
         content: |
           ### *When you hire a general freelancer, you may get:*
 
-          ✘ Low-quality design
+          *   Low-quality design
 
           *   Design that does not encourage leads to request a quote
 
