@@ -48,7 +48,7 @@ sections:
         title_align: center
         content: |
           #### → Conversion-Focused
-        content_align: center
+        content_align: left
         actions: []
         actions_align: left
         image_alt: Section item 2 icon
