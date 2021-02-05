@@ -302,7 +302,10 @@ sections:
         subtitle: ''
         title_align: left
         content: >
-          #### *4. Choose your design*
+          ## 2.
+
+
+          ### Watch as we customize
 
 
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
