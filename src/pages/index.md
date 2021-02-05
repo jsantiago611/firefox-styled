@@ -133,11 +133,20 @@ sections:
         subtitle: ''
         title_align: left
         content: >
-          ### *Works for your clients while you sleep*
+          ### *When you hire from a general freelancer (FIVRR, I'm talking to
+          you), you may get:*
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          *   Low-quality design
+
+
+          *   Design that does not encourage leads to request a quote
+
+
+          *   Sites that are not optimized for mobile
+
+
+          *   Lots of back-and-forth with the designer
         content_align: left
         actions: []
         actions_align: left
