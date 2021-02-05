@@ -75,7 +75,7 @@ sections:
     align: center
     background_color: secondary
     padding_top: none
-    has_border: true
+    has_border: false
     padding_bottom: none
   - type: features_section
     title: ''
