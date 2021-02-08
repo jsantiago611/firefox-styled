@@ -150,6 +150,20 @@
    font-style: italic;
 }
 
+@font-face {
+   font-family: 'Metro';
+   src: url('../fonts/Metropolis-Bold.woff') format('woff');
+   font-weight: 400;
+   font-style: normal;
+}
+
+@font-face {
+   font-family: 'Metro';
+   src: url('../fonts/Metropolis-BoldItalic.woff') format('woff');
+   font-weight: 400;
+   font-style: italic;
+}
+
 
 
 html {
@@ -195,7 +209,7 @@ h6 {
 	font-weight: 400;
 	line-height: 1.2;
 	margin: 1.25em 0 0.5em;
-	font-family: 'Sig',  "Baskerville Old Face", "Garamond", "Georgia", "Times New Roman", serif;
+	font-family: 'Metro', sans-serif;
 
 	&:first-child {
 		margin-top: 0;
